@@ -7,7 +7,7 @@
     "fast-base64-decode": "^1.0.0"
   },
   "peerDependencies": {
-    "react-native": ">=0.79"
+    "react-native": "0.79.2-0"
   },
   "keywords": [
     "Crypto.getRandomValues",
